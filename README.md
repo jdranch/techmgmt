@@ -1,4 +1,4 @@
-# JDRANCH Miscellany
+# JDRanch Miscellany
 
 ## Introduction
 Hello 👋 
