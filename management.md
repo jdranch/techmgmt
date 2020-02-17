@@ -1,4 +1,4 @@
-CLARK'S MISCELLANY: MANAGEMENT EDITION
+Jeff's JDRanch Miscellany: Technology Management Edition
 ======================================
 
 READING LIST
