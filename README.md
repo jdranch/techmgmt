@@ -14,8 +14,7 @@ I hope you find these helpful and applicable to your journey
 - commands, philosphy, protocols, tables, principles, laws, quotes, maxims, etc 
 
 ## Warranty
-None. Use at your own risk. Errors and omissions excepted. Batteries not
-included. Hand wash cold. Beware of the leopard. Have a nice day.
+None. Mileage may vary.  Use what's helpful, improve the product.
 
 ## Author
 Jeff Daniels | [@jeffdaniels](https://twitter.com/jeffdaniels) | [linkedin.com/in/jeffdaniels/](https://linkedin.com/in/jeffdaniels/) | [github.com/jdranch](https://github.com/jdranch)
