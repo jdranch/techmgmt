@@ -1,4 +1,4 @@
-# Clark's Miscellany
+# JDRANCH Miscellany
 
 ## Introduction
 Hello 👋 
