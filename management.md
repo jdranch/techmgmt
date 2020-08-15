@@ -1006,6 +1006,113 @@ At large scale culture is born out of structure. If you want to change culture, 
 
 1. Culture follows structure.
 
+STRATEGIC THINKERS AND RESEARCHERS
+-----------------------------------------
+Ansoff, Igor
+- Wrote Corporate Strategy to “codify and generalize” his work at Lockheed Corporation.
+- Created “Ansoff Model of Strategic Planning” which identifies a decision making process from aggregated to more specific.  The procedure is a cascade where
+          - Set objectives established
+          - Gap of current position vs.  objectives is estimated
+          - One or more strategy are proposed
+          - Strategies are tested for “gap-reducing properties”
+- Created the word “synergy”
+- Precursor to “corporate advantage”
+- Corporate Strategy relies heavily on analysis, thus Ansoff labels “analysis by paralysis”
+
+Argyris & Schon
+- Organizational Learning (1978)
+- Precursor to Senge’s Fifth Discipline
+- Investigate 2-organizational models:
+          - Model  1 
+                    - Manipulation by managers
+                    - Goal focused
+                    - “Cone of silence”, head down and do the work, do not ask questions
+                    - Considered Single-Loop Learning
+          - Model 2
+                    - Emphasis on “Double Loop Learning”
+                    - When an error is detected, orgs debate solution, act on change, learn from others
+                    - Most orgs do well in Single Loop Learning, but struggle with Double
+
+Bartlett & Ghoshal
+- Managing Across Borders (1989)
+- Identify difficulties in growth through acquisition and dangerously high levels of diversity
+- 4 Types of multi-national firms
+          - Multi-National - Multi-domestic, power in local responsiveness
+          - Global – efficiencies of scale, cost advantages
+          - International – ability to transfer knowledge and expertise overseas
+          - Transnational – combines local responsiveness w/ ability to xfer knowledge
+- Define Emerging Organizational Model
+          - Entrepreneurial Process – drive external opportunity seeking for new business
+          - Integration Process – Allows link to leverage dispersed resources and competencies
+          - Renewal Process – maintains corporate values and practices
+
+Bennis & Nanus
+- Leaders: The Strategies for Taking Charge (1985)
+- Bennis interviews 90 American leaders
+- Lessons
+          - Management of Attention:  Vision, shared with team members
+          - Management of Meaning:  Communication, incl. choosing the right forum (memo, email, booklet, press release, face-to-face meeting)
+          - Management of Trust:  The glue that binds…must have with team, common to all leaders
+- Worst problem  in leadership is early success, no chance to learn from adversity and problems
+- 5 myths of leadership need to be overcome.  Should be understood that:
+          - Leadership is not a rare skill
+          - Leaders are made rather than born
+          - Leaders are mostly ordinary people
+          - Leadership is not solely the reserve of upper management
+          - Leadership is not about control, direction, and manipulation
+
+Champy & Hammer
+- Re-engineering the Corporation (1993)
+- Theme: Identify key processes and make them lean and efficient as possible
+- Re-engineering is “fundamental rethinking and radical redesign of business processes to achieve dramatic improvements in critical measures of performance such as cost,           quality, service, and speed.”
+- Business Process Re-engineering is too limiting, we must stop paving the cow paths
+- Criticisms
+          - Mintzberg (1996) disagrees with the concept of reengineering.  It’s just same old notion that a new system will solve the problem. 
+          - Reengineering has become synonymous w/ redundancy
+          - CSC’s report The State of Reingineering (1994) found that 336 US jobs and 760 Europe jobs were lost per reengineering project.
+          - Organizations are not willing to change by nature, mgmt often forces change, but does not adopt change itself.
+          - Efforts fall short b/c absence of trust “respect for the individual, his or her goodwill, intelligence, and native, but long shackled, curiosity.” (Peters, 1993)
+
+Chandler
+- Strategy and Structure (1962)
+- Researched US companies between 1850 – 1920
+- A firms structure is dictated by its chosen strategy; “Unless a structure follows strategy, inefficiency results”
+- Criticism
+          - Thesis that “structure follows strategy” was largely accepted until the 1990’s.  
+          - “I think he got it exactly wrong.  For it is the structure of the organization that determines, over time, the choices that it makes about the markets it attacks.”               (Peters, 1992)
+          - In Managing on the Edge (Pascale, 1990)
+
+Deming
+- Out of the Crisis (1982)
+- Three concepts in Out of the Crisis:
+          - If consistent quality is to be achieved, senior managers must take charge of quality
+          - Implementation takes a cascade training model from the top down.
+          - Use statistical methods for QC is necessary
+- “Management for Quality” (Deming)
+- To Deming, management accounts for 90% of the problem
+- Western mgrs have annual appraisals, Japanese have daily feedback
+- 14-Points on quality management
+
+Drucker
+- Predicted the rise of the Corporation
+- Age of Discontinuity (1969), describes “Knowledge Worker”
+- Calls for strategic planning to manage change
+- Entrepreneurship offers a way to manage change
+- Marketing concept
+          - Consumer sovereignty
+          - Look at business from customer’s perspective
+          - Consumer Rationality
+          - Utility function
+- How customers use and benefit from product
+          - Distinction between sales and marketing
+          - Systems Approach
+          - Demand Faction
+          - Ask two questions: What will the business be, what should the business be?
+- Role of executive is to:
+          - Sharpen corporate vision
+          - Generate improved performance
+          - Become increasingly effective thru learning and practice
+
 
 </body>
 
