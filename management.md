@@ -49,6 +49,57 @@ Mathematical Foundations
 - Advanced Statistics in Research Written by: Larry Hatcher
 - Introduction to Stochastic Processes Written by: Erhan Cinlar
 
+Historical perspectives on technology
+- Michael Adas, Machines as the Measure of Men
+- Ronell, Avital, Ronell,  The Telephone Book: Technology, Schitzophrenia, Electric Speech.
+- William Cronin, Nature’s Metropolis: Chicago and the Great West.
+- Venus Green, 2001. Race on the Line: Gender, Labor and Technology in the Bell System, 1880-1980.
+- Rayvon Fouche, Black Inventors in the Age of Segregation: Granville T. Woods, Lewis H. Latimer, and Shelby J.
+- Gabriele Hecht, The Radiance of France: Nuclear Power and National Identity after World War II.
+- David Mindell, Between Human and Machine: Feedback, Control and Computing before Cybernetics
+- Jeffrey Meikle, American Plastic : A Cultural History
+- David Nye, American Technological Sublime
+- Staudenmaier, John. 1985. Technology’s Storytellers: Reweaving the Human Fabric.
+
+Technology and critical theory
+- Richard Bernstein, "Heidegger's Silence? Ethos and Technology," in The New Constellation
+- Andrew Feenberg, Questionning Technology (entire)
+- Lewis Mumford, The Myth of the Machine:  The Pentagon of Power
+- Jacques Ellul, The Technological Society or Propaganda
+- Michel Foucault, Discipline and Punish
+- Martin Zimmerman, Heidegger's Confrontation with Modernity
+- Richard Sclove, Democracy and Technology
+- Langdon Winner, The Whale and the Reactor
+- Darin Barney, Prometheus Wired
+
+Global perspectives
+- Arturo Escobar, Encountering Development (selections)
+- Francesca Bray, Technology and Gender: Fabrics of Power in Late Imperial China.
+- Manuel Castells,  The Rise of the Network Society
+- Manuel Castells, The Power of Identity
+- Ron Eglash,  African Fractals: modern computing and indigenous design
+- Pierre Levy, Collective Intelligence: Mankind's Emerging World in Cyberspace.
+- Alondra Nelson, Thuy Linh N. Tu, et al, Technicolor: Race, Technology and Everyday Life
+- Peña, Devon Gerardo1997. The Terror of the Machine: Technology, Work, Gender and Ecology of the U.S.-Mexico Border.
+- Paul Willis, Learning to Labor: How Working Class Kids Get Working Class Jobs
+
+Information Technology Reading
+- Linnda  Caporael,  “Anthropomorphism and mechanomorphism: Two faces of the human machine.” Computers in Human Behavior 2:215-234
+- Langdon Winner, “Mythinformation,” in The Whale and the Reactor
+- Manuel Castells,  The Rise of the Network Society.
+- Ron Eglash,  African Fractals: modern computing and indigenous design
+- Batya Friedman, (ed.). Human Values and the Design of Computer Technology.
+- Eileenn Green and Alison Adam. 2001. Virtual Gender.
+- Stefan  Helmreich, Silicon Second Nature: Culturing Artificial Life in a Digital World.
+- Friedrich Kettler,  Discourse Networks, 1800 / 1900.
+- Beth Kolko, (ed.)  Race in Cyberspace 
+- Sarah Kiesler (ed.) Culture of the Internet.
+- Lawrence Lessig, Code and Other Laws of Cyberspace.
+- Pierre Levy,  Collective Intelligence: Mankind's Emerging World in Cyberspace.
+- Pippa Norris,  Digital Divide: Civic Engagement, Information Poverty, and the Internet Worldwide.
+- Lucy Suchman,  Plans and Situated Actions: The Problem of Human-Machine Communication.
+
+
 UPTIME  
 ------
 ```
@@ -232,67 +283,6 @@ STATISTICS
 - Pearson product-moment correlation coefficient
 - 3-sigma
 - Markov-Chain Montecarlo
-
-LEADERSHIP (POWELL)
--------------------
-1. Being responsible sometimes means pissing people off
-2. 
-
-TECHNOLOGY AND SOCIAL THEORY (RPI)
--------------------
-http://www.rpi.edu/~winner/Theory-syll-04.htm 
-Langdon Winner’s Technology and Social Theory course from RPI.  Includes many recommended texts, references.  No notes or web links, but interesting questions and follow-on reading lists (below):
-Historical perspectives on technology
-
-•	Michael Adas, Machines as the Measure of Men
-•	Ronell, Avital, Ronell,  The Telephone Book: Technology, Schitzophrenia, Electric Speech.
-•	William Cronin, Nature’s Metropolis: Chicago and the Great West.
-•	Venus Green, 2001. Race on the Line: Gender, Labor and Technology in the Bell System, 1880-1980.
-•	Rayvon Fouche, Black Inventors in the Age of Segregation: Granville T. Woods, Lewis H. Latimer, and Shelby J.
-•	Gabriele Hecht, The Radiance of France: Nuclear Power and National Identity after World War II.
-•	David Mindell, Between Human and Machine: Feedback, Control and Computing before Cybernetics
-•	Jeffrey Meikle, American Plastic : A Cultural History
-•	David Nye, American Technological Sublime
-•	Staudenmaier, John. 1985. Technology’s Storytellers: Reweaving the Human Fabric.
-
-Technology and critical theory
-•	Richard Bernstein, "Heidegger's Silence? Ethos and Technology," in The New Constellation
-•	Andrew Feenberg, Questionning Technology (entire)
-•	Lewis Mumford, The Myth of the Machine:  The Pentagon of Power
-•	Jacques Ellul, The Technological Society or Propaganda
-•	Michel Foucault, Discipline and Punish
-•	Martin Zimmerman, Heidegger's Confrontation with Modernity
-•	Richard Sclove, Democracy and Technology
-•	Langdon Winner, The Whale and the Reactor
-•	Darin Barney, Prometheus Wired
-
-Global perspectives
-•	Arturo Escobar, Encountering Development (selections)
-•	Francesca Bray, Technology and Gender: Fabrics of Power in Late Imperial China.
-•	Manuel Castells,  The Rise of the Network Society
-•	Manuel Castells, The Power of Identity
-•	Ron Eglash,  African Fractals: modern computing and indigenous design
-•	Pierre Levy, Collective Intelligence: Mankind's Emerging World in Cyberspace.
-•	Alondra Nelson, Thuy Linh N. Tu, et al, Technicolor: Race, Technology and Everyday Life
-•	Peña, Devon Gerardo1997. The Terror of the Machine: Technology, Work, Gender and Ecology of the U.S.-Mexico Border.
-•	Paul Willis, Learning to Labor: How Working Class Kids Get Working Class Jobs
-
-Information Technology Reading
-•	Linnda  Caporael,  “Anthropomorphism and mechanomorphism: Two faces of the human machine.” Computers in Human Behavior 2:215-234
-•	Langdon Winner, “Mythinformation,” in The Whale and the Reactor
-•	Manuel Castells,  The Rise of the Network Society.
-•	Ron Eglash,  African Fractals: modern computing and indigenous design
-•	Batya Friedman, (ed.). Human Values and the Design of Computer Technology.
-•	Eileenn Green and Alison Adam. 2001. Virtual Gender.
-•	Stefan  Helmreich, Silicon Second Nature: Culturing Artificial Life in a Digital World.
-•	Friedrich Kettler,  Discourse Networks, 1800 / 1900.
-•	Beth Kolko, (ed.)  Race in Cyberspace 
-•	Sarah Kiesler (ed.) Culture of the Internet.
-•	Lawrence Lessig, Code and Other Laws of Cyberspace.
-•	Pierre Levy,  Collective Intelligence: Mankind's Emerging World in Cyberspace.
-•	Pippa Norris,  Digital Divide: Civic Engagement, Information Poverty, and the Internet Worldwide.
-•	Lucy Suchman,  Plans and Situated Actions: The Problem of Human-Machine Communication.
-
 
 
 OSI Layer
