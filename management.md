@@ -169,7 +169,7 @@ Work expands so as to fill the time available for its completion
 ### Postel's law
 Be conservative in what you send, liberal in what you receive
 
-## Conway's law
+### Conway's law
 Organizations which design systems are constrained to produce designs which are copies of the communication structures of those organisations
 
 ### Waterbed theory
