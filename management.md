@@ -13,7 +13,7 @@ General
 - Surely You're Joking, Mr. Feynman (Richard Feynman)
 - Publication Manual of the American Psychological Association by American Psychological Association
 - Scholarship Reconsidered: Priorities of the Professoriate by Ernest L. Boyer
-- DIFFUSION OF INNOVATIONS, 4TH ED. by Everett M. Rogers
+- Diffusion of Innovations, by Everett M. Rogers
 - The Computer as a Communication Device, J.C.R Licklider and Robert Taylor
 - Libraries of the Future, J.C.R. Licklider
 
