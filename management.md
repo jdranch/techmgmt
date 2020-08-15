@@ -1113,6 +1113,31 @@ Drucker
           - Generate improved performance
           - Become increasingly effective thru learning and practice
 
+BLOOM'S TAXONOMY
+-----------------------------------------
+- Cognitive: mental skills (Knowledge) 
+- Affective: growth in feelings or emotional areas (Attitude) 
+- Psychomotor: manual or physical skills (Skills) 
+
+PSYCHMOTOR DOMAINS
+-----------------------------------------
+Dave's
+- Imitation: Observing and patterning behavior after someone else. Performance may be of low quality. Example: Copying a work of art. 
+- Manipulation: Being able to perform certain actions by following instructions and practicing. Example: Creating work on one's own, after taking lessons, or reading about it. 
+- Precision: Refining, becoming more exact. Few errors are apparent. Example: Working and reworking something, so it will be "just right." 
+- Articulation: Coordinating a series of actions, achieving harmony and internal consistency. Example: Producing a video that involves music, drama, color, sound, etc. 
+- Naturalization: Having high level performance become natural, without needing to think much about it. Examples: Michael Jordan playing basketball, Nancy Lopez hitting a golf    ball, etc. 
+
+Harrow's
+- Reflex movements - Reactions that are not learned. 
+- Fundamental movements - Basic movements such as walking, or grasping. 
+- Perception - Response to stimuli such as visual, auditory, kinesthetic, or tactile discrimination. 
+- Physical abilities - Stamina that must be developed for further development such as strength and agility. 
+- Skilled movements - Advanced learned movements as one would find in sports or acting. 
+- No discursive communication - Effective body language, such as gestures and facial expressions. 
+
+
+
 
 </body>
 
