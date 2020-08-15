@@ -20,7 +20,7 @@ General
 
 Software and Project Management
 - Joel on Software Written by: Joel Spolsky
-- AN INTEGRATIVE MODEL OF ORGANIZATIONAL TRUST: PAST, PRESENT,AND FUTURE Written by: Roger C. Mayer, James H. Davis, and F. David Schoorman
+- An Integrative Model of Organizational Trust: Past, Present, and Future by Roger C. Mayer, James H. Davis, and F. David Schoorman
 - Tribes: We Need You To Lead Us Written by: Seth Godin
 - The Fifth Discipline: The Art & Practice of The Learning Organization by Peter M. Senge
 - The Mythical Man-Month: Essays on Software Engineering Written by: Frederick P. Brooks Jr.
@@ -259,8 +259,6 @@ QUOTES TO LIVE AND WORK BY
 
 
 
-
-
 MAXIMS
 -------------------
 
@@ -352,9 +350,6 @@ Meets or exceeds all Tier 1, Tier 2 and Tier 3 requirements
 All cooling equipment is independently dual-powered, including chillers and heating, ventilating and air-conditioning (HVAC) systems
 Fault-tolerant site infrastructure with electrical power storage and distribution facilities guaranteeing 99.995% availability
 
-AAA
----
-- Au
 
 STATISTICS
 -----------
@@ -363,17 +358,24 @@ STATISTICS
 - Pearson product-moment correlation coefficient
 - 3-sigma
 - Markov-Chain Montecarlo
+- ANOVA
+- AONCOVA
+- MANOVA
+- Regressional Analysis
+- Multivariate Analysis
+- Alpha
+- T-Test, Student's T-Test
 
 
 OSI Layer
 ---------------------------------------
-Layer 7 - Applications
-Layer 6 - Presentation
-Layer 5 - Session
-Layer 4 - Transport
-Layer 3 - Network
-Layer 2 - Data Link
-Layer 1 - Physical
+- Layer 7 - Applications
+- Layer 6 - Presentation
+- Layer 5 - Session
+- Layer 4 - Transport
+- Layer 3 - Network
+- Layer 2 - Data Link
+- Layer 1 - Physical
 
 
 
@@ -427,6 +429,20 @@ OODA (BOYD)
 - Decide
 - Act
 
+PDCA
+-----------
+- Plan
+- Do
+- Check
+- Act
+
+DMAIC
+-----------
+- Define
+- Measure
+- Analyze
+- Improve
+- Control
 
 SWOT
 ----
@@ -975,7 +991,8 @@ Instead pay attention to the silent majority. Work out what they need to be conv
 
 CALMS
 -----
-Principles popularised by the the devOps movement.
+Principles popularised by the the 
+movement.
 
 ### Culture
 Embrace change and share responsibility. Operate a safe, blameless environment where people have room to fail and to grow
