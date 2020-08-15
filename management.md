@@ -1136,7 +1136,39 @@ Harrow's
 - Skilled movements - Advanced learned movements as one would find in sports or acting. 
 - No discursive communication - Effective body language, such as gestures and facial expressions. 
 
+STUDY TECHNIQUES FOR COMPREHENSIVE EXAMS AND THE DEFENDING THE DOCTORAL DISSERTATION
+-------------------------------------------------------------------------------------
+Below are some techniques I personally used and created to help me recall, apply, demonstrate knowledge, familiarity, and application of research/concepts/technique.
 
+-Take SAFMEDS daily 
+          - From Dr. Ogden Lindsley, University of Kansas. 
+          - He named this system of cards, SAFMEDS ("Say All Fast, a Minute Each Day, Shuffled"). 
+
+- Practice Makes Perfect
+          - It’s boring, but it works
+          - Write answers to sample questions.  
+          - Time your responses.
+          - Rinse and repeat.
+
+- Now Appearing on Center Stage!
+          - I made up folks songs about the topics and authors to help me remember
+          - Southern people are known for silly folk songs and singing while they work.  My grandmother's homespun songs inspired this one.
+          - I would make up little ditties about the authors I was studying and stories about their research.
+          - I play the guitar with no meaningful direction or skill.  I would strum songs about all these authors with dates and stories.  
+          - For example:  "Champy & Hammer fought for radical redesign of corporate processes or bust!  Then Mintzberg shut them down in 1996 and Tom Peters had no trust."
+
+- Join the Technology Management All-Stars
+          - I created my all star team of technology management professionals.  
+          - Depending on the question, I would substitute in my specialists to complete the question.
+          - Researcher All-Stars: Minium, Noursis, Hayden, Beach, NSF 
+          - General management All-Stars: Drucker, Chandler, Champy & Hammer, Demming, Bennis & Nanus, Argyris & Shon
+          - Technical Specialist All-Stars (Dig Comm) – Burgess, Willyard & McCleese, Khalil, Garcia-Arreola, etc.
+          
+- Synthesize information
+          - I would listen to NPR or a podcast from prominent management thinkers and add to the segment.  
+          - For example, I read an article in the WSJ by Gary Hamel.  I identified a number of critical sources that differ from Hamel’s opinion.
+          - I learned about a group called Architecture2030 and how they take an efficient approach to technology in buildings.  I compared some of their obstacles with those                of digital communications systems: repurposing resources, informal systems, legacy assets, etc.
+          - This demonstrates critical thinking and the ability to synthesis current and historical information into a meaningful format.
 
 
 </body>
