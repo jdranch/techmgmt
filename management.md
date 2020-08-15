@@ -14,6 +14,9 @@ General
 - Publication Manual of the American Psychological Association by American Psychological Association
 - Scholarship Reconsidered: Priorities of the Professoriate by Ernest L. Boyer
 - DIFFUSION OF INNOVATIONS, 4TH ED. by Everett M. Rogers
+- The Computer as a Communication Device, J.C.R Licklider and Robert Taylor
+- Libraries of the Future, J.C.R. Licklider
+
 
 Software and Project Management
 - Joel on Software Written by: Joel Spolsky
@@ -217,15 +220,92 @@ Excessive pride, the sort of thing Zeus zaps you for. Also the quality that
 makes you write (and maintain) programs that other people won't want to say bad
 things about. Hence, the third great virtue of a programmer. 
 
-MY MAXIMS/QUOTES
+QUOTES TO LIVE AND WORK BY
 ----------------
-- 
-- Perfection is asymptotic
+- We live in deeds, not years; in thoughts, not figures on a dial. We should count time by heart throbs. Philip James Bailey 
+- There is no one else who can ever fill your role in the same way, so it's a good idea to perform it as well as possible. Humphry Osmond (1917-2004) Psychiatrist 
+- I think of life as a good book. The further you get into it, the more it begins to make sense. Harold S. Kushner
+- A man's judgment cannot be better than the information on which he has based it. Arthur Hays Sulzberger
+- One of the most dangerous forms of human error is forgetting what one is trying to achieve. Paul Nitze
+- The man who works and is never bored is never old. Work and interest in worthwhile things are the best remedy for age. Pablo Casals
+- Pray as though everything depended on God. Work as though everything depended on you. - St. Augustine
+- The best way to escape from a problem is to solve it. Author unknown
+- There's only one corner of the universe you can be certain of improving, and that's your own self. Aldous Huxley
+- The spirit of truth and the spirit of freedom--these are the pillars of society. Henrik Ibsen Pillars of Society
+- He that wrestles with us strengthens our nerves, and sharpens our skill. Our antagonist is our helper. Edmund Burke
+- Plans are of little importance, but planning is essential -- Winston Churchill
+- Plans are nothing; planning is everything.-- Dwight D. Eisenhower
+- No battle plan survives contact with the enemy. -- Helmuth von Moltke the Elder
+- A good plan, violently executed now, is better than a perfect plan next week. -- George S. Patton
+- The quickest way to get people to respect what it is you know in life is to admit to them what it is you don’t know. Joel Katz 
+- Don’t think of it as failure. Think of it as time-released success.  Robert Orben Humorist 
+- When I’ve heard all I need to make a decision, I don’t take a vote. I make a decision.  Ronald Reagan 
+- If you want to know how rich you really are, find out what would be left of you tomorrow if you should lose every dollar you own tonight. William J. H. Boetcker 
+- The best way to keep good acts in memory is to refresh them with new. Marcus Cato (234-149 B.C.) Statesman
+- Life, love, and laughter--what priceless gifts to give our children. Phyllis Campbell Dryden
+- There is nothing we cannot live down, rise above, and overcome. Ella Wheeler Wilcox (1850-1919) Poet and journalist
+- If you are what you do, then when you don’t you aren’t. Wayne Dyer
+- Faith is knowing there is an ocean because you have seen a brook. William Arthur Ward (1921-1994) Educator
+- There are no rules of architecture for a castle in the clouds. G. K. Chesterton (1874-1936) Writer
+- Ideas have a short shelf life. You must act on them before the expiration date. John Maxwell
+- If you choose to see your job as a “mission” from day one until the day you retire you’ll never quit loving it. Of course, the very word “mission” implies the job you do will have an impact on others. It’s hard to maintain passion for your job when you are only focused on yourself and your own personal goals. Thomas H. Weidemeyer 
+- Ultimately all you will have left at the end of the day are your name and your reputation. Invest in them wisely and you and others will simultaneously reap the rewards. Leonard A. Schlesinger 
+- Small opportunities are often the beginning of great enterprises. Demosthenes 
+- You can do it that way.  Pappy
+- Be the best you can in all that you do whether its digging ditches, robbing banks, or solving world hunger. Dad
+- Your reputation is made by searching for things that can't be done....and doing them. Vern McLellan
 
-OTHER MAXIMS/QUOTES
+
+
+
+
+
+
+MAXIMS
 -------------------
-- 
-- "Quality is value to some person" -- Jerry Weinberg
+
+- There’s a story about a young man who applied for the job of teaching at a one-room school up in the Ozark hills. He was interviewed by the president of the school board, who asked him if he believed the earth was round or flat. He pondered a minute, then answered “I can teach it either way.”
+
+- Never buy a saddle until you have met the horse. Mort Zuckerman 
+- Take calculated risks. That is quite different from being rash. George S. Patton 
+- The most rewarding relationship are the ones that grow with time.
+- Motivation is what turns knowledge and skill into success.
+- Remember that none of us is more important than the team.
+- What will be will be.
+- Doubt makes the mountain which faith can move.
+- A fool wanders; the wise man travels.
+- If you want the job done right, do it yourself.
+- Know where you are going, always be aware of where you are, & never forget where you come from.
+- It isn’t as hard to study as it is to be stupid.
+- If you don’t make mistakes, you are not going to make anything.
+- If something is worth doing, risk will be involved.
+- Seize The Day.
+- Row with whatever oar is in the boat.
+- It doesn’t matter whose payroll you are on, you are working for yourself.
+- Common sense is the ability to detect values.
+- Either I will find a way or I will make one.
+- The way to be nothing is to do nothing.
+- Speech is great, but Silence is greater.
+- Any man may make a mistake, but none a fool will continue in it.
+- Imagination is more important than knowledge.
+- Let him that would move the world, first move himself.
+- I am part of all that I have met.
+- I’ll not budge an inch.
+- I came, I saw, I conquered.		
+- Confidence is everything.  You must allow yourself to win.
+- What Lies Behind us & What Lies Ahead of us are Tiny Matters Compared to what Lies Within Us.
+- Who's more foolish? The fool, or the fool who follows him? 
+- My Greatest inspiration is a challenge to attempt the impossible.
+- There’s no free tuition in the school of experience.
+- Measure twice, cut once.
+- There is always somebody out there bigger, faster, smarter, and tougher than you.
+
+
+
+
+
+
+
 
 
 
@@ -361,6 +441,7 @@ PROJECT MANAGEMENT TRIANGLE
 - Scope
 - Resource
 - Schedule
+
 
 ESTIMATION
 ----------
